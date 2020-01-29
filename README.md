@@ -1,1 +1,1 @@
-# Sensor-cloud
+The following".ino" consists of Arduino IDE code for NodeMCU (Esp8266). Using this code one can upload sensor's data on the Thingspeak Server. This code uses DHT11(temperature and humidity) sensor Pulse sensor.
